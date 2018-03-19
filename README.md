@@ -5,10 +5,8 @@
 ## Using the script
 
 >1; Open a Text Editor view in Blender.
-
-2; Press Alt + O, or go to Text>Open Text Block and open the right script for your system (-win for windows and -unix for OSX or linux).
-
-2; Then simply press Run script.
+>2; Press Alt + O, or go to Text>Open Text Block and open the right script for your system (-win for windows and -unix for OSX or linux).
+>3; Then simply press Run script.
 
 ## Resources used
 
